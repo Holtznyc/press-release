@@ -1,0 +1,11 @@
+body {
+	font-style: comic
+	Color: blue
+	background-color: lightgrey;
+	padding: 20px;
+}
+
+.container {
+		border-top: 10px solid pink;
+		border-bottom: 10px solid pink;
+}
